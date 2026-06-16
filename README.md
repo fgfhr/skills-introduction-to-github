@@ -14,4 +14,5 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+加油！
 网络安全专业大三学生，正在学习WAF、漏洞复现与安全工具二次开发
